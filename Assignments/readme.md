@@ -1,3 +1,3 @@
 ## DATA 602 Assignments
 
-This is a directory created for all the assignments for DATA 602.
+This is a directory created for all the DATA 602 assignments.
