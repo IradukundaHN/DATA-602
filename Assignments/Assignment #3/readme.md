@@ -1,12 +1,12 @@
 ## DATA 602 Assignment #3
 
 ### Objective
-The main objective is to perform Exploratory Data Analysis (EDA) on the wine quality dataset by:
+The main objective is to perform Exploratory Data Analysis (EDA) on the white wine quality dataset by:
 1. Identifying the inputs or independent variables and the target or dependent variable in our dataset
 2. Checking data types of those variables
 3. Checking and cleaning the missing values
 4. Summarizing the descriptive statistics
-5. Visualizing the correlation and relationship between variables as well as distribution for each variable
+5. Visualizing the correlation and relationships between variables as well as density distribution for each variable
 
 
 ### Dataset Description
