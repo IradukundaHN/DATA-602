@@ -11,6 +11,6 @@ The main objective is to perform Exploratory Data Analysis (EDA) on the wine qua
 
 ### Dataset Description
 The Wine Quality Dataset is described from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality). 
-<p>The csv file was read directly from the data source: [UMBC's Small Dataset Repo](https://raw.githubusercontent.com/UMBC-Data-Science/DATA602Datasets/main/winequality-white.csv).</p>
+The csv file was read directly from the data source: [UMBC's Small Dataset Repo](https://raw.githubusercontent.com/UMBC-Data-Science/DATA602Datasets/main/winequality-white.csv).
 
 
