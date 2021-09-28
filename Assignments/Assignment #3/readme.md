@@ -2,10 +2,12 @@
 
 This a folder created for Assignment 3.
 
-### Dataset Description:
+
+### Objective
+The main objective is to perform Exploratory Data Analysis (EDA) on the wine quality dataset by:
+1. Identifying the inputs or independent variables and the target or dependent variable in our dataset
+2. 
 
 
-### Project Description:
-
-The purpose of this assignment is to perform Exploratory Data Analysis (EDA) on a dataset of choice.
+### Dataset Description
 
