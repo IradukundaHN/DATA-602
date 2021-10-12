@@ -4,21 +4,10 @@
 The main objective is to perform a simple linear regression modeling on the white wine quality.
 
 ### Dataset Description
-The data consists of:
-Input variables:
-1 - fixed acidity
-2 - volatile acidity
-3 - citric acid
-4 - residual sugar
-5 - chlorides
-6 - free sulfur dioxide
-7 - total sulfur dioxide
-8 - density
-9 - pH
-10 - sulphates
-11 - alcohol
-Target variable:
-12 - quality (score between 0 and 10)
+The data consists of input variables: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol.
+<p>
+And the target variable: quality (score between 0 and 10)
+ </p>
  
 The dataset is a csv format, and it can be read directly from the data source: [UMBC's Small Dataset Repo](https://raw.githubusercontent.com/UMBC-Data-Science/DATA602Datasets/main/winequality-white.csv).
 More information about the Wine Quality Dataset can be found from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality). 
